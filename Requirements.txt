@@ -31,7 +31,7 @@ six==1.16.0
 soupsieve==2.3.1
 sqlparse==0.4.2
 typing_extensions==4.1.1
-urllib3==1.26.9
+urllib3==1.26.18
 virtualenv==20.13.3
 virtualenv-clone==0.5.7
 webdriver-manager==3.5.3
